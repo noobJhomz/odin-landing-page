@@ -1,1 +1,1 @@
-# odin-landing-page
+This project is a landing page of a website, consists of sections such as header, hero, information, quote, call to action, and footer. This site is built using only html and css.
