@@ -91,7 +91,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 60px;
+    gap: 50px;
 }
 
 .info-items {
@@ -108,4 +108,31 @@ body {
 .info-text {
     font-size: 18px;
     color: rgb(54, 54, 54);
+}
+
+.section-three {
+    background-color: #E5E7EB;
+    display: flex;
+    justify-content: center;
+    padding: 135px 0 95px 0;
+}
+
+.quote-container {
+    width: 780px;
+    display: flex;
+    flex-direction: column;
+}
+
+.quote {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 300;
+    font-style: italic;
+}
+
+.remark {
+    font-size: 24px;
+    color: #1F2937;
+    font-weight: 900;
+    align-self: flex-end;
 }
