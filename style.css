@@ -45,6 +45,11 @@ body {
     justify-content: space-between;
     align-items: center;
     margin-top: 135px;
+    gap: 60px;
+}
+
+.hero-container {
+    width: 900px;
 }
 
 .hero-main-text {
@@ -72,6 +77,8 @@ body {
 .hero-image {
     background-color: lightgray;
     color: #E5E7EB;
+    height: 250px;
+    width: 100%;
 }
 
 .section-two {
@@ -178,4 +185,15 @@ body {
     border: 2px solid #F9FAF8;
     border-radius: 8px;
     padding: 8px 32px;
+}
+
+.footer {
+    text-align: center;
+}
+
+.foot-text {
+    font-size: 18px;
+    color: #F9FAF8;
+    background-color: #1F2937;
+    padding: 40px 0;
 }
